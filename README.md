@@ -1,2 +1,5 @@
 # Double_Pendulum
+This is an algorithm in which several methods of solving differential equations are analyzed and applied to the case of the double pendulum (dif.pynb), the visualization of this document is not possible in github, it is recommended to download it and run it in google colab. While the other program (Stochastic_Pendulum.pynb) is a study of the chaotic behavior of the double pendulum where we slightly vary the initial position of the pendulums to see their behavior. That is, we apply stochastic processes to the double pendulum and its two angles.
+
 Este es un algoritmo en el que se analizan varios métodos de resolución de ecuaciones diferenciales y los aplicamos al caso del péndulo doble (dif.pynb), la visualización de este documento no es posible en github, se recomienda descargarlo y ejecutarlo en google colab. Mientras que el otro programa (Stochastic_Pendulum.pynb) es un estudio del comportamiento caótico del péndulo doble donde variamos ligeramente la posición inicial de los péndulos para ver su comportamiento. Es decir, aplicamos procesos estocásticos al péndulo doble y sus dos ángulos.
+
